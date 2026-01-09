@@ -1,3 +1,9 @@
+# To-Do-List
+A modern React-based Todo List app where users can add, edit, delete, and mark tasks as completed, with search and stats features. Built with React hooks for state management, it provides a sleek, interactive, and responsive task management experience.
+
+<img width="1907" height="897" alt="Screenshot 2026-01-09 115827" src="https://github.com/user-attachments/assets/609da380-2839-4c36-81af-8f0f21f6a26d" />
+<img width="1909" height="910" alt="Screenshot 2026-01-09 115750" src="https://github.com/user-attachments/assets/8c6a3ee9-ee0c-4d56-9d58-ba7cbd07fe43" />
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
